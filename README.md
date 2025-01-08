@@ -1,4 +1,4 @@
-### hi there, my name's jordan / jj / steph. welcome 👋!
+### hi there, welcome 👋!
 
 - 😄 pronouns: they/them
 - ⚡ hobbyist artist and amateur programmer. i'd also like to make a game someday... we'll see how that goes
