@@ -1,4 +1,5 @@
-### hi there, welcome 👋!
+### hi there, welcome (⌒∇⌒)/!
+--
 i'm currently learning:
 - react
 - next.js
